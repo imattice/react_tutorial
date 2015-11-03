@@ -1,0 +1,22 @@
+[
+    {
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "author": "Sleepy Hollow",
+        "text": "I have come for your pickle"
+    },
+    {
+        "author": "Mr. Taco",
+        "text": "All I want is tacos, tacos, tacos!"
+    },
+    {
+        "author": "Fish",
+        "text": "Help I can't swim!"
+    }
+]
